@@ -1,5 +1,6 @@
 ---
 permalink: /BigMaQ/
+header_name: BigMaQ
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
