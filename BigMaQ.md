@@ -3,6 +3,9 @@ title: "BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D
 permalink: /BigMaQ/
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
+
 ### Conference / Journal (e.g., NeurIPS 2026)
 
 **Alice Example¹, Bob Researcher², Carol Scientist¹**
