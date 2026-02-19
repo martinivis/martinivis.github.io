@@ -10,6 +10,17 @@
   text-wrap: balance;
 }
 
+.paper-title{
+  text-align: center;
+  max-width: 900px;
+  margin: 40px auto 10px auto;
+  line-height: 1.2;
+  font-weight: 700;
+  text-wrap: balance;
+}
+
+
+
 /* Center the subtitle lines */
 h3 {
   text-align: center;
@@ -49,6 +60,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
