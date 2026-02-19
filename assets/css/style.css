@@ -17,32 +17,6 @@ h3 {
   margin-top: -10px;
 }
 
-/* Space between sections */
-hr {
-  margin: 50px auto;
-  border: none;
-  border-top: 1px solid #ddd;
-  max-width: 850px;
-}
-
-/* Space above headings like "Abstract", "Method", etc */
-h2 {
-  margin-top: 40px;
-  margin-bottom: 15px;
-  text-align: center;
-}
-
-/* Images spacing */
-img {
-  margin-top: 15px;
-  margin-bottom: 10px;
-}
-
-/* Paragraph spacing for abstract readability */
-p {
-  line-height: 1.6;
-  margin-bottom: 18px;
-}
 
 /* space after the --- separators */
 hr {
@@ -51,5 +25,6 @@ hr {
   border: none;
   border-top: 1px solid #ddd;
 }
+
 
 
