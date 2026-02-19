@@ -25,9 +25,6 @@ permalink: /BigMaQ/
 <a href="#">🎞 Video</a>
 </p>
 
----
-
-## Teaser
 
 <div align="center">
   <img src="/assets/images/BigMaQ/teaser.png" width="700">
