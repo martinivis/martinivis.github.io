@@ -1,4 +1,3 @@
-
 ---
 title: "BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Pose Representations"
 permalink: /BigMaQ/
