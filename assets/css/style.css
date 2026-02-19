@@ -28,9 +28,15 @@
   max-width: 900px;
   margin: 10px auto 6px auto;
   line-height: 1.2;
-  font-weight: 700;
+  font-weight: 400;
   text-wrap: balance;
 }
+
+
+.paper-title strong {
+  font-weight: 700;   /* bold only the dataset name */
+}
+
 
 /* remove extra top padding from theme */
 .page-content {
@@ -103,6 +109,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
