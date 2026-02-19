@@ -19,7 +19,7 @@
 ## Teaser
 
 <div align="center">
-  <img src="assets/images/teaser.png" width="700">
+  <img src="assets/images/BigMaQ/teaser.png" width="700">
 </div>
 
 ---
