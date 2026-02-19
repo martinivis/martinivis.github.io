@@ -3,8 +3,6 @@ title: "BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D
 permalink: /BigMaQ/
 ---
 
-<link rel="stylesheet" href="/assets/css/style.css">
-
 
 ### ICLR 2026
 
