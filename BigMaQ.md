@@ -1,4 +1,5 @@
 ---
+title: BigMaQ
 permalink: /BigMaQ/
 header_name: BigMaQ
 ---
