@@ -17,6 +17,12 @@ h3 {
   margin-top: -10px;
 }
 
+hr {
+  margin: 35px auto 12px auto;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+
 
 
 
