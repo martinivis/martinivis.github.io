@@ -30,7 +30,7 @@
   line-height: 1.2;
   font-weight: 400;
   text-wrap: balance;
-  margin-bottom: 6px;
+  margin-bottom: 16px;
 }
 
 
@@ -118,6 +118,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
