@@ -17,11 +17,37 @@ h3 {
   margin-top: -10px;
 }
 
+/* SECTION SEPARATORS */
 hr {
-  margin: 35px auto 12px auto;
+  margin: 45px auto 20px auto;
   border: none;
   border-top: 1px solid #ddd;
+  max-width: 850px;
 }
+
+/* headings always close to the line */
+hr + h2 {
+  margin-top: 0;
+}
+
+/* consistent spacing after headings */
+h2 {
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+/* spacing for blocks (images + text) */
+h2 + p,
+h2 + div {
+  margin-top: 10px;
+}
+
+/* abstract readability */
+p {
+  line-height: 1.65;
+}
+
+
 
 
 
