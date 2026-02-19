@@ -62,14 +62,15 @@ p {
 }
 
 .abstract-box {
+  background: #f7f7f7 !important;
+  border: 2px solid #ff00ff !important; /* loud test border */
+  padding: 18px !important;
+  margin: 12px auto 22px auto !important;
   max-width: 850px;
-  margin: 0 auto 20px auto;
-  padding: 18px 22px;
-  background: #f7f7f7;
   border-radius: 8px;
-  border-left: 4px solid #444;
-  line-height: 1.65;
 }
+
+
 
 
 
