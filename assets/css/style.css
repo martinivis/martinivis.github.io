@@ -8,6 +8,11 @@
   display: none !important;
 }
 
+.site-header + .page-content {
+  padding-top: 0 !important;
+}
+
+
 
 .page-heading {
   text-align: center;
@@ -21,11 +26,22 @@
 .paper-title{
   text-align: center;
   max-width: 900px;
-  margin: 40px auto 10px auto;
+  margin: 10px auto 6px auto;
   line-height: 1.2;
   font-weight: 700;
   text-wrap: balance;
 }
+
+/* remove extra top padding from theme */
+.page-content {
+  padding-top: 10px !important;
+}
+
+.wrapper {
+  margin-top: 0 !important;
+}
+
+
 
 /* ABSTRACT BLOCK — clean paper style */
 .abstract-box {
@@ -87,6 +103,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
