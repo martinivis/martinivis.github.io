@@ -19,23 +19,23 @@
   text-wrap: balance;
 }
 
-/* ABSTRACT BLOCK */
+/* ABSTRACT BLOCK — clean paper style */
 .abstract-box {
-  max-width: 850px;
-  margin: 0 auto 24px auto;
-  padding: 18px 22px;
-  background: #f7f7f7;
-  border-radius: 8px;
-  border-left: 4px solid #444;
-  text-align: left;
+  max-width: 820px;
+  margin: 0 auto 26px auto;
+  padding: 0;
 }
 
-/* paragraph formatting inside abstract */
+/* paragraph typography */
 .abstract-box p {
   margin: 0;
-  line-height: 1.65;
-  font-size: 0.98rem;
+  line-height: 1.7;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
 }
+
+
 
 
 
@@ -79,6 +79,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
