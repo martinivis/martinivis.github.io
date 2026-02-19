@@ -48,6 +48,14 @@
 }
 
 
+.venue {
+  text-align: center;
+  color: #666;
+  font-size: 1.05rem;
+  letter-spacing: 0.4px;
+}
+
+
 
 /* ABSTRACT BLOCK — clean paper style */
 .abstract-box {
@@ -109,6 +117,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
