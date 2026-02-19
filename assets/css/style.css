@@ -18,7 +18,14 @@
   font-weight: 700;
   text-wrap: balance;
 }
-
+.abstract-box {
+  background: #f7f7f7 !important;
+  border: 2px solid #ff00ff !important; /* loud test border */
+  padding: 18px !important;
+  margin: 12px auto 22px auto !important;
+  max-width: 850px;
+  border-radius: 8px;
+}
 
 
 /* Center the subtitle lines */
@@ -61,14 +68,8 @@ p {
   line-height: 1.65;
 }
 
-.abstract-box {
-  background: #f7f7f7 !important;
-  border: 2px solid #ff00ff !important; /* loud test border */
-  padding: 18px !important;
-  margin: 12px auto 22px auto !important;
-  max-width: 850px;
-  border-radius: 8px;
-}
+
+
 
 
 
