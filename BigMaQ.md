@@ -43,11 +43,4 @@ The recognition of dynamic and social behavior in animals is fundamental for adv
 
 ## Citation
 
-```
-@inproceedings{example2026,
-  title={Your Paper Title},
-  author={Example, Alice and Researcher, Bob and Scientist, Carol},
-  booktitle={Conference Name},
-  year={2026}
-}
-```
+<pre> @inproceedings{martini2026bigmaq, title = {BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Pose Representations}, author = {Martini, Lucas and Lappe, Alexander and Bogn{\'a}r, Anna and Vogels, Rufin and Giese, Martin A.}, booktitle = {International Conference on Learning Representations (ICLR)}, year = {2026} } </pre>
