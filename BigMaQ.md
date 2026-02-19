@@ -39,7 +39,7 @@ performance across multiple benchmarks.
 ## Method
 
 <div align="center">
-  <img src="assets/images/architecture.png" width="700">
+  <img src="/assets/images/architecture.png" width="700">
 </div>
 
 ---
