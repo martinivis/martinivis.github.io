@@ -44,3 +44,12 @@ p {
   margin-bottom: 18px;
 }
 
+/* space after the --- separators */
+hr {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+
+
