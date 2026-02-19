@@ -1,3 +1,6 @@
 title: ""
 theme: minima
 header_pages: []
+minima:
+  custom_css:
+    - assets/css/style.css
