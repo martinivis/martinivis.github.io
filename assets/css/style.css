@@ -34,6 +34,9 @@ hr + h2 {
 h2 {
   margin-bottom: 12px;
   text-align: center;
+  font-weight: 700;
+  text-transform: none;
+  font-size: 1.6rem;
 }
 
 /* spacing for blocks (images + text) */
@@ -46,6 +49,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
