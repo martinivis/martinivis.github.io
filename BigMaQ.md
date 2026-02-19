@@ -1,4 +1,9 @@
-# BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Pose Representations
+# 
+
+---
+title: BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Pose Representations
+permalink: /BigMaQ/
+---
 
 ### Conference / Journal (e.g., NeurIPS 2026)
 
