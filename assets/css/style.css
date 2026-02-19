@@ -18,14 +18,25 @@
   font-weight: 700;
   text-wrap: balance;
 }
+
+/* ABSTRACT BLOCK */
 .abstract-box {
-  background: #f7f7f7 !important;
-  border: 2px solid #ff00ff !important; /* loud test border */
-  padding: 18px !important;
-  margin: 12px auto 22px auto !important;
   max-width: 850px;
+  margin: 0 auto 24px auto;
+  padding: 18px 22px;
+  background: #f7f7f7;
   border-radius: 8px;
+  border-left: 4px solid #444;
+  text-align: left;
 }
+
+/* paragraph formatting inside abstract */
+.abstract-box p {
+  margin: 0;
+  line-height: 1.65;
+  font-size: 0.98rem;
+}
+
 
 
 /* Center the subtitle lines */
@@ -67,6 +78,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
