@@ -1,7 +1,8 @@
----
-title: "BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Pose Representations"
-permalink: /BigMaQ/
----
+<link rel="stylesheet" href="/assets/css/style.css">
+
+<h1 class="paper-title">
+BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Pose Representations
+</h1>
 
 
 ### ICLR 2026
