@@ -1,6 +1,14 @@
 .site-title { display: none !important; }
 .site-header { display: none !important; }
 
+/* Hide Minima's automatic page title */
+.post-title,
+.page-heading h1,
+.page-heading {
+  display: none !important;
+}
+
+
 .page-heading {
   text-align: center;
   max-width: 900px;
@@ -79,6 +87,7 @@ h2 + div {
 p {
   line-height: 1.65;
 }
+
 
 
 
