@@ -53,9 +53,10 @@ The recognition of dynamic and social behavior in animals is fundamental for adv
 ```
 @inproceedings{martini2026bigmaq,
   title     = {BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Pose Representations},
-  author    = {Martini, Lucas and Lappe, Alexander and Bogn{\'a}r, Anna and Vogels, Rufin and Giese, Martin A.},
-  booktitle = {International Conference on Learning Representations (ICLR)},
-  year      = {2026}
+  author={Lucas Martini and Alexander Lappe and Anna Bogn{\'a}r and Rufin Vogels and Martin A. Giese},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=n7viYE7Xbo}
 }
 ```
 
