@@ -44,12 +44,12 @@ permalink: /
   }
 
   .project-thumb {
-    width: 180px;
-    height: auto;
-    border-radius: 6px;
-    flex: 0 0 180px;          /* fixed column for the image */
-    display: block;
-  }
+  width: 220px;
+  height: auto;
+  border-radius: 6px;
+  flex: 0 0 220px;   /* must match width */
+  display: block;
+}
 
   .project-content {
     flex: 1 1 auto;           /* take remaining space */
