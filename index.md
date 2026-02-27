@@ -44,6 +44,7 @@ Please find a list of recent projects that I have been involved in below.
   </div>
 </div>
 
+
 <div class="project">
   <a href="https://www.nature.com/articles/s41467-025-60945-5">
     <img class="project-thumb" src="/assets/images/PoseTuning/Fig1.webp" alt="Pose tuning paper teaser">
