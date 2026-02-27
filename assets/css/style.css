@@ -160,7 +160,25 @@ p {
     margin-right: 14px;
   }
 
+.intro {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.intro-text {
+  flex: 1;
+}
+
+.intro-photo img {
+  width: 220px;
+  border-radius: 10px;   /* softer look */
+}
+
 </style>
+
 
 
 
