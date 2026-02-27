@@ -22,10 +22,14 @@ permalink: /
   padding-top: 0 !important;
 }
   
-  
 
+/* Container that prevents accumulating indentation */
+.projects {
+    margin: 0;
+    padding: 0;
+  }
   
-  .project {
+.project {
     display: flex;
     flex-direction: row;      /* FORCE side-by-side */
     align-items: flex-start;
@@ -82,6 +86,9 @@ permalink: /
       max-width: 320px;
     }
   }
+
+
+
 
 .intro {
   display: flex;
