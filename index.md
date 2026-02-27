@@ -65,6 +65,14 @@ permalink: /
     }
   }
 
+.intro {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 40px;
+  margin-bottom: 30px;
+}
+  
 .intro-text {
   flex: 1;
 }
