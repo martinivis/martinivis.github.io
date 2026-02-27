@@ -10,9 +10,29 @@ permalink: /
 
 <h1>Lucas Martini</h1>
 
-I am a researcher working in the field of computational neuroscience, computer vision and machine learning, with a focus on 3D pose estimation, motion capture, animal behavior analysis, and representation learning.
-After I received my Bachelor's and Master's Degree at the Karlsruhe Institute of Technology (KIT), I started my PhD at the University of Tübingen and the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). There, I have been exploring how visual systems encode motion, shape, and social interaction.
+
+
+<div class="intro">
+
+  <div class="intro-text">
+    <h1>Your Name</h1>
+    <p>
+      I am a researcher working in the field of computational neuroscience, computer vision and machine learning, with a focus on 3D pose estimation, motion capture, animal behavior analysis, and representation learning.
+After I received my Bachelor's and Master's Degree at the Karlsruhe Institute of Technology (KIT), I started my PhD at the University of Tübingen and the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). 
+    </p>
+    <p>
+      There, I have been exploring how visual systems encode motion, shape, and social interaction.
 Please find a list of recent projects and publications that I have been involved in below.
+    </p>
+  </div>
+
+  <div class="intro-photo">
+    <img src="/assets/Profile/profile.jpg" alt="Profile photo">
+  </div>
+
+</div>
+
+
 
 ---
 
