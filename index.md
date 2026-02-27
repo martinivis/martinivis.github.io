@@ -2,7 +2,79 @@
 title: Lucas Martini
 permalink: /
 ---
-<link rel="stylesheet" href="/assets/css/style.css">
+
+
+
+
+<style>
+  .project {
+    display: flex;
+    flex-direction: row;      /* FORCE side-by-side */
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 40px;
+    flex-wrap: nowrap;        /* don't wrap to next line */
+  }
+
+  .project a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .project-thumb {
+    width: 180px;
+    height: auto;
+    border-radius: 6px;
+    flex: 0 0 180px;          /* fixed column for the image */
+    display: block;
+  }
+
+  .project-content {
+    flex: 1 1 auto;           /* take remaining space */
+    min-width: 0;             /* IMPORTANT: prevents weird wrapping */
+  }
+
+  .project-content h3 {
+    margin: 0 0 6px 0;
+    text-align: left;
+    line-height: 1.2;
+    font-size: 1.05em;        /* optional: slightly smaller */
+  }
+
+  .project-meta {
+    margin: 0 0 8px 0;
+    font-size: 0.95em;
+  }
+
+  .project-desc {
+    margin: 0 0 10px 0;
+  }
+
+  .project-links a {
+    margin-right: 14px;
+  }
+
+  /* Only stack on genuinely small screens */
+  @media (max-width: 520px) {
+    .project {
+      flex-direction: column;
+    }
+    .project-thumb {
+      width: 100%;
+      max-width: 320px;
+    }
+  }
+
+.intro-text {
+  flex: 1;
+}
+
+.intro-photo img {
+  width: 220px;
+  border-radius: 10px;   /* softer look */
+}
+</style>
+
 
 
 <br>
