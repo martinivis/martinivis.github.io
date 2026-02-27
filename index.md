@@ -125,7 +125,7 @@ permalink: /
 After I received my Bachelor's and Master's Degree at the Karlsruhe Institute of Technology (KIT), I started my PhD at the University of Tübingen and the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). 
     </p>
     <p>
-      There, I have been exploring how visual systems encode motion, shape, and social interaction.
+      Recently, I have been exploring how visual systems encode motion, shape, and social interaction.
 Please find a list of recent projects and publications that I have been involved in below.
     </p>
   </div>
