@@ -63,6 +63,7 @@ Please find a list of recent projects and publications that I have been involved
   </div>
 </div>
 
+<br>
 
 <div class="project">
   <a href="https://www.nature.com/articles/s41467-025-60945-5">
@@ -91,6 +92,8 @@ Please find a list of recent projects and publications that I have been involved
   </div>
 </div>
 
+<br>
+
 <div class="project">
   <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/28ef7ee7cd3e03093acc39e1272411b7-Abstract-Conference.html">
     <img class="project-thumb" src="/assets/images/SharedFeatures/teaser.png" alt="Shared-feature visualization teaser">
@@ -117,6 +120,8 @@ Please find a list of recent projects and publications that I have been involved
     </p>
   </div>
 </div>
+
+<br>
 
 <div class="project">
   <a href="https://www.biorxiv.org/content/10.1101/2024.01.29.577734v2.abstract">
