@@ -141,6 +141,8 @@ Please find a list of recent projects and publications that I have been involved
 ---
 
 ## Projects
+
+<div class="projects">
 <div class="project">
   <a href="/BigMaQ/">
     <img class="project-thumb" src="/assets/images/BigMaQ/teaser.png" alt="BigMaQ teaser">
@@ -250,7 +252,7 @@ Please find a list of recent projects and publications that I have been involved
     </p>
   </div>
 </div>
-
+</div>
 
 <!--
 **martinivis/martinivis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
