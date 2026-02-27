@@ -4,6 +4,10 @@ permalink: /
 ---
 <link rel="stylesheet" href="/assets/css/style.css">
 
+
+<br>
+<br>
+
 <h1>Hi, I'm Lucas Martini</h1>
 
 I am a researcher working in the field of computational neuroscience, computer vision and machine learning, with a focus on 3D pose estimation, motion capture, animal behavior analysis, and representation learning.
