@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Lucas Martini
 permalink: /
 ---
 <link rel="stylesheet" href="/assets/css/style.css">
