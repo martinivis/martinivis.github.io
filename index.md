@@ -34,21 +34,23 @@ permalink: /
   }
   
 .project {
-    display: flex;
-    flex-direction: row;      /* FORCE side-by-side */
-    align-items: flex-start;
-    gap: 20px;
-    margin-bottom: 40px;
-    flex-wrap: nowrap;        /* don't wrap to next line */
-  }
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
 
   .project a {
     text-decoration: none;
     color: inherit;
   }
 
-  .project-thumb{
+  .project-thumb {
   width: 220px;
+  height: auto;
+  flex: 0 0 220px;     /* fixed column width */
+  flex-shrink: 0;      /* extra explicit: never shrink */
+  display: block;
+  border-radius: 6px;
 }
 
   .project-content {
