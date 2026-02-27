@@ -38,13 +38,13 @@ Please find a list of recent projects that I have been involved in below.
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
 
-  <a href="[PoseTuning](https://www.nature.com/articles/s41467-025-60945-5)">
+  <a href="https://www.nature.com/articles/s41467-025-60945-5">
     <img src="/assets/images/PoseTuning/Fig1.webp" width="220" style="border-radius: 6px;">
   </a>
 
   <div>
     <h3 style="margin-top: 0;">
-      <a href="[PoseTuning](https://www.nature.com/articles/s41467-025-60945-5)" style="text-decoration: none; color: inherit;">
+      <a href="https://www.nature.com/articles/s41467-025-60945-5" style="text-decoration: none; color: inherit;">
         Keypoint-based modeling reveals fine-grained body pose tuning in superior temporal sulcus neurons
       </a>
     </h3>
@@ -53,7 +53,7 @@ Please find a list of recent projects that I have been involved in below.
       A large-scale 3D motion dataset of rhesus macaques with detailed pose annotations, showcasing improved action recognition over classical behavioral descriptors in animals using surface based modeling.
     </p>
 
-    <a href="[PoseTuning](https://www.nature.com/articles/s41467-025-60945-5)">Project Page →</a>
+    <a href="https://www.nature.com/articles/s41467-025-60945-5">Project Page →</a>
   </div>
 
 </div>
