@@ -22,9 +22,6 @@ permalink: /
   padding-top: 0 !important;
 }
 
-.wrapper {
-  max-width: 1100px !important;
-}
   
 
 /* Container that prevents accumulating indentation */
@@ -37,6 +34,7 @@ permalink: /
   display: flex;
   align-items: flex-start;
   gap: 20px;
+  margin-bottom: 60px;
 }
 
   .project a {
