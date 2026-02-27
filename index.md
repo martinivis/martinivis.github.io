@@ -145,6 +145,61 @@ Please find a list of recent projects and publications that I have been involved
 ## Projects
 
 <div class="projects">
+
+<div class="project">
+  <a href="/BigMaQ/">
+    <img class="project-thumb" src="/assets/images/BigMaQ/teaser.png" alt="BigMaQ teaser">
+  </a>
+
+  <div class="project-content">
+    <h3>
+      <a href="/BigMaQ/">
+        BigMaQ: A Big Macaque Motion and Animation Dataset
+      </a>
+    </h3>
+
+    <p class="project-meta">
+      <strong>Lucas Martini</strong>, Alexander Lappe, Anna Bognár, Rufin Vogels, Martin A. Giese<br>
+      <em>ICLR</em>, 2026
+    </p>
+
+    <p class="project-desc">
+      A large-scale 3D motion dataset of rhesus macaques with detailed pose annotations, showcasing improved action recognition over classical behavioral descriptors in animals using surface based modeling.
+    </p>
+
+    <p class="project-links">
+      <a href="/BigMaQ/">Project Page →</a>
+    </p>
+  </div>
+</div>
+
+<div class="project">
+  <a href="/BigMaQ/">
+    <img class="project-thumb" src="/assets/images/BigMaQ/teaser.png" alt="BigMaQ teaser">
+  </a>
+
+  <div class="project-content">
+    <h3>
+      <a href="/BigMaQ/">
+        BigMaQ: A Big Macaque Motion and Animation Dataset
+      </a>
+    </h3>
+
+    <p class="project-meta">
+      <strong>Lucas Martini</strong>, Alexander Lappe, Anna Bognár, Rufin Vogels, Martin A. Giese<br>
+      <em>ICLR</em>, 2026
+    </p>
+
+    <p class="project-desc">
+      A large-scale 3D motion dataset of rhesus macaques with detailed pose annotations, showcasing improved action recognition over classical behavioral descriptors in animals using surface based modeling.
+    </p>
+
+    <p class="project-links">
+      <a href="/BigMaQ/">Project Page →</a>
+    </p>
+  </div>
+</div>
+  
 <div class="project">
   <a href="/BigMaQ/">
     <img class="project-thumb" src="/assets/images/BigMaQ/teaser.png" alt="BigMaQ teaser">
