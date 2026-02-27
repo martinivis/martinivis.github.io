@@ -7,6 +7,24 @@ permalink: /
 
 
 <style>
+
+.site-title { display: none !important; }
+.site-header { display: none !important; }
+
+/* Hide Minima's automatic page title */
+.post-title,
+.page-heading h1,
+.page-heading {
+  display: none !important;
+}
+
+.site-header + .page-content {
+  padding-top: 0 !important;
+}
+  
+  
+
+  
   .project {
     display: flex;
     flex-direction: row;      /* FORCE side-by-side */
