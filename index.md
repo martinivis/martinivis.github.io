@@ -21,6 +21,10 @@ permalink: /
 .site-header + .page-content {
   padding-top: 0 !important;
 }
+
+.wrapper {
+  max-width: 1100px !important;
+}
   
 
 /* Container that prevents accumulating indentation */
