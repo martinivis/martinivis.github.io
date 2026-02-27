@@ -49,12 +49,6 @@ permalink: /
 
   .project-thumb{
   width: 220px;
-  height: 150px;      /* fixed height */
-  object-fit: cover;  /* auto-crop to fill the box */
-  border-radius: 8px;
-  flex: 0 0 220px;
-  display: block;
-  object-position: center top;
 }
 
   .project-content {
@@ -79,7 +73,7 @@ permalink: /
   }
 
   .project-links a {
-    margin-right: 14px;
+    margin-right: 0px;
   }
 
   /* Only stack on genuinely small screens */
