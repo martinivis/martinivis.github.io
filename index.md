@@ -5,9 +5,9 @@ permalink: /
 
 <h1>Hi, I'm Lucas Martini</h1>
 
-I am a researcher working in the field of computational neuroscience and machine learning, with a focus on 3D pose estimation, animal behavior analysis, and representation learning.
-
-My work explores how visual systems encode motion, shape, and social interaction.
+I am a researcher working in the field of computational neuroscience, computer vision and machine learning, with a focus on 3D pose estimation, motion capture, animal behavior analysis, and representation learning.
+During my PhD at the University of Tübingen and the International Max-Planck Research School for Intelligent Systems (IMPRS-IS), I have been exploring how visual systems encode motion, shape, and social interaction.
+Please find a list of recent projects that I have been involved in below.
 
 ---
 
