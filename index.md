@@ -45,10 +45,11 @@ permalink: /
   }
 
   .project-thumb {
-  width: 220px;
+  width: 220px !important;
+  min-width: 220px;     /* prevents shrinking */
+  max-width: 220px;     /* overrides theme max-width */
   height: auto;
-  flex: 0 0 220px;     /* fixed column width */
-  flex-shrink: 0;      /* extra explicit: never shrink */
+  flex-shrink: 0;       /* prevents flex shrinking */
   display: block;
   border-radius: 6px;
 }
