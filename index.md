@@ -132,7 +132,7 @@ Please find a list of recent projects and publications that I have been involved
     </h3>
 
     <p class="project-meta">
-      <strong>Lucas Martini/strong>, Anna Bognár, Rufin Vogels, Martin A. Giese<br>
+      <strong>Lucas Martini</strong>, Anna Bognár, Rufin Vogels, Martin A. Giese<br>
     </p>
 
     <p class="project-desc">
