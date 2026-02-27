@@ -134,14 +134,12 @@ p {
     color: inherit;
   }
 
-  .project-thumb {
-    width: 200px;
-    height: auto;          /* fixed height -> aligned thumbnails */
-    object-fit: cover;      /* consistent crop, no stretching */
-    border-radius: 6px;
-    flex-shrink: 0;
-    display: block;
-  }
+ .project-thumb {
+  width: 180px;        /* fixed width */
+  height: auto;        /* natural ratio */
+  border-radius: 6px;
+  flex: 0 0 180px;     /* prevents shrinking & wrapping */
+}
 
   .project-content h3 {
     margin: 0 0 6px 0;
@@ -173,6 +171,7 @@ p {
     }
   }
 </style>
+
 
 
 
