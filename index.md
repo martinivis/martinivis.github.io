@@ -175,7 +175,7 @@ Please find a list of recent projects and publications that I have been involved
 
 <div class="project">
   <a href="https://www.nature.com/articles/s41467-025-60945-5">
-    <img class="project-thumb" src="/assets/images/PoseTuning/Fig1.webp" alt="Pose tuning paper teaser">
+    <img class="project-thumb" src="/assets/images/BigMaQ/teaser.png" alt="Pose tuning paper teaser">
   </a>
 
   <div class="project-content">
