@@ -60,23 +60,23 @@ permalink: /
   }
 
   .project-content h3 {
-    margin: 0 0 0px 0;
+    margin: 0 0 6px 0;
     text-align: left;
     line-height: 1.2;
     font-size: 1.05em;        /* optional: slightly smaller */
   }
 
   .project-meta {
-    margin: 0 0 0px 0;
+    margin: 0 0 8px 0;
     font-size: 0.95em;
   }
 
   .project-desc {
-    margin: 0 0 0px 0;
+    margin: 0 0 10px 0;
   }
 
   .project-links a {
-    margin-right: 0px;
+    margin-right: 14px;
   }
 
   /* Only stack on genuinely small screens */
