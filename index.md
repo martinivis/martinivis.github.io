@@ -49,9 +49,7 @@ permalink: /
 
   .project-thumb {
   width: 220px;
-  height: auto;
   border-radius: 6px;
-  flex: 0 0 220px;   /* must match width */
   display: block;
 }
 
