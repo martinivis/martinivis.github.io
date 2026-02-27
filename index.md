@@ -30,8 +30,8 @@ Please find a list of recent projects that I have been involved in below.
     </h3>
 
     <p class="project-meta">
-      Author A, Author B, <strong>Your Name</strong>, Author D<br>
-      <em>Venue</em>, Year
+      <strong>Lucas Martini/strong>, Alexander Lappe, Anna Bognár, Rufin Vogels, Martin A. Giese<br>
+      <em>ICLR</em>, 2026
     </p>
 
     <p class="project-desc">
@@ -58,8 +58,8 @@ Please find a list of recent projects that I have been involved in below.
     </h3>
 
     <p class="project-meta">
-      Author A, <strong>Your Name</strong>, Author C, Author D<br>
-      <em>Venue</em>, Year
+      Rajani Raman, Anna Bognár, Ghazaleh Ghamkhari Nejad, Albert Mukovskiy, <strong>Lucas Martini</strong>, Martin A. Giese & Rufin Vogels<br>
+      <em>Nature Communications</em>, 2025
     </p>
 
     <p class="project-desc">
@@ -85,8 +85,8 @@ Please find a list of recent projects that I have been involved in below.
     </h3>
 
     <p class="project-meta">
-      Author A, Author B, <strong>Your Name</strong>, Author D<br>
-      <em>Venue</em>, Year
+     Alexander Lappe, Anna Bognár, Ghazaleh Ghamkhari Nejad, Albert Mukovskiy,  <strong>Lucas Martini</strong>, Martin A. Giese, Rufin Vogels<br>
+      <em>NeurIPS</em>, 2024
     </p>
 
     <p class="project-desc">
@@ -112,8 +112,7 @@ Please find a list of recent projects that I have been involved in below.
     </h3>
 
     <p class="project-meta">
-      Author A, Author B, Author C, <strong>Your Name</strong><br>
-      <em>Venue</em>, Year
+      <strong>Lucas Martini/strong>, Anna Bognár, Rufin Vogels, Martin A. Giese<br>
     </p>
 
     <p class="project-desc">
