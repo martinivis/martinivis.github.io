@@ -135,8 +135,8 @@ p {
   }
 
   .project-thumb {
-    width: 220px;
-    height: 160px;          /* fixed height -> aligned thumbnails */
+    width: 200px;
+    height: auto;          /* fixed height -> aligned thumbnails */
     object-fit: cover;      /* consistent crop, no stretching */
     border-radius: 6px;
     flex-shrink: 0;
@@ -173,6 +173,7 @@ p {
     }
   }
 </style>
+
 
 
 
