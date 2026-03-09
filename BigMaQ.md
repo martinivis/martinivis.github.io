@@ -47,15 +47,7 @@ The recognition of dynamic and social behavior in animals is fundamental for adv
 </div>
 
 ---
-## Examples
 
-<video controls width="600">
-  <source src="/assets/videos/demo.mp4" type="videos/BigMaQ/single/147_Libre_14.mp4">
-  Your browser does not support the video tag.
-</video>
-
-
----
 ## Citation
 
 ```
@@ -67,4 +59,47 @@ year={2026},
 url={https://openreview.net/forum?id=n7viYE7Xbo}
 }
 ```
+---
 
+## Examples
+
+
+<div class="video-row">
+  <video controls width="400">
+    <source src="videos/BigMaQ/single/147_Libre_14.mp4" type="video/mp4">
+  </video>
+
+  <video controls width="400">
+    <source src="videos/BigMaQ/single/55_Gin_14.mp4" type="video/mp4">
+  </video>
+</div>
+
+<div class="video-row">
+  <video controls width="400">
+    <source src="videos/BigMaQ/single/57_Libre_14.mp4" type="video/mp4">
+  </video>
+
+  <video controls width="400">
+    <source src="videos/BigMaQ/single/160_Libre_14.mp4" type="video/mp4">
+  </video>
+</div>
+
+<div class="video-row">
+  <video controls width="400">
+    <source src="videos/BigMaQ/social/399_Jekyll_14.mp4" type="video/mp4">
+  </video>
+
+  <video controls width="400">
+    <source src="videos/BigMaQ/social/399_Libre_14.mp4" type="video/mp4">
+  </video>
+</div>
+
+<div class="video-row">
+  <video controls width="400">
+    <source src="videos/BigMaQ/social/733_Nacho_14.mp4" type="video/mp4">
+  </video>
+
+  <video controls width="400">
+    <source src="videos/BigMaQ/social/733_Odin_14.mp4" type="video/mp4">
+  </video>
+</div>
