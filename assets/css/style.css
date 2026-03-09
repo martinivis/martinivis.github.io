@@ -122,14 +122,15 @@ p {
 
 .video-row {
   display: flex;
-  gap: 20px;        /* space between videos */
   justify-content: center; /* centers the videos horizontally */
-  flex-wrap: wrap;  /* allows stacking on small screens */
+  gap: 20px;               /* space between videos */
+  margin-bottom: 20px;
+  flex-wrap: wrap;         /* prevents overflow on small screens */
 }
-
 .video-row video {
   max-width: 100%;
 }
+
 
 
 
