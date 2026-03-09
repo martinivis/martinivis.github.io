@@ -65,21 +65,21 @@ url={https://openreview.net/forum?id=n7viYE7Xbo}
 
 
 <div class="video-row">
-  <video controls width="400">
+  <video controls width="300">
     <source src="/assets/videos/BigMaQ/single/147_Libre_14_h264.mp4" type="video/mp4">
   </video>
 
-  <video controls width="400">
+  <video controls width="300">
     <source src="/assets/videos/BigMaQ/single/55_Gin_14_h264.mp4" type="video/mp4">
   </video>
 </div>
 
 <div class="video-row">
-  <video controls width="400">
+  <video controls width="200">
     <source src="/assets/videos/BigMaQ/single/57_Libre_14_h264.mp4" type="video/mp4">
   </video>
 
-  <video controls width="400">
+  <video controls width="200">
     <source src="/assets/videos/BigMaQ/single/160_Libre_14_h264.mp4" type="video/mp4">
   </video>
 </div>
