@@ -120,6 +120,15 @@ p {
 }
 
 
+.video-row {
+  display: flex;
+  gap: 20px;        /* space between videos */
+  flex-wrap: wrap;  /* allows stacking on small screens */
+}
+
+.video-row video {
+  max-width: 100%;
+}
 
 
 
