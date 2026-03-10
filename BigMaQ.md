@@ -48,6 +48,14 @@ The recognition of dynamic and social behavior in animals is fundamental for adv
 
 ---
 
+
+
+## Video
+
+<video controls width="700">
+    <source src="/assets/videos/BigMaQ/SupplementaryVideo_Ext_red.mp4" type="video/mp4">
+  </video>
+
 ## Citation
 
 ```
@@ -61,14 +69,7 @@ url={https://openreview.net/forum?id=n7viYE7Xbo}
 ```
 ---
 
-## Video
-
-<video controls width="700">
-    <source src="/assets/videos/BigMaQ/SupplementaryVideo_Ext_red.mp4" type="video/mp4">
-  </video>
-
-
-## Examples
+## Further Examples
 
 
 <div class="video-row">
