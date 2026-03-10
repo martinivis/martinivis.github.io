@@ -51,11 +51,11 @@ The recognition of dynamic and social behavior in animals is fundamental for adv
 
 
 ## Video
-
+<div align="center">
 <video controls width="700">
     <source src="/assets/videos/BigMaQ/SupplementaryVideo_Ext_red.mp4" type="video/mp4">
   </video>
-
+</div>
 ## Citation
 
 ```
