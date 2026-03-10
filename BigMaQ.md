@@ -61,6 +61,13 @@ url={https://openreview.net/forum?id=n7viYE7Xbo}
 ```
 ---
 
+## Video
+
+<video controls width="700">
+    <source src="/assets/videos/BigMaQ/SupplementaryVideo_Ext_red.mp4" type="video/mp4">
+  </video>
+
+
 ## Examples
 
 
