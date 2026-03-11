@@ -28,7 +28,7 @@ header_name: BigMaQ
 <p align="center">
 <a href="https://openreview.net/forum?id=n7viYE7Xbo">📄 Paper</a> |
 <a href="https://github.com/martinivis/BigMaQ">💻 Code</a> |
-<a href="#">📊 Dataset</a> |
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf30FV5pyhGQac8C5tSM2dW17n7j4xpB_2sNu9UnkeBYdW93Q/viewform?usp=sharing&ouid=116164636450166882978">📊 Dataset request </a> |
 <a href="#">🎞 Video</a>
 </p>
 
@@ -69,6 +69,18 @@ url={https://openreview.net/forum?id=n7viYE7Xbo}
 }
 ```
 ---
+
+## About the Dataset
+We are currently working on hosting the dataset. The data will be released in two parts:
+
+- (1) Motion sequences, avatar model, behavioral labels, code, and label annotations
+- (2) Multi-view video data, masks, and keypoints (approx. 700GB, available upon request)
+
+If you are interested in accessing the multi-view video data, please submit a request via the following form:
+[Request Access](https://docs.google.com/forms/d/e/1FAIpQLSf30FV5pyhGQac8C5tSM2dW17n7j4xpB_2sNu9UnkeBYdW93Q/viewform?usp=sharing&ouid=116164636450166882978)
+
+Once the data is hosted, we will notify all registered users with further instructions for access.
+Thank you for your interest in our dataset!
 
 ## Further Examples
 
