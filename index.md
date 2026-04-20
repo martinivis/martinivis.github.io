@@ -149,8 +149,6 @@ permalink: /
   <a href="https://scholar.google.de/citations?user=_ovDunkAAAAJ&hl=de" target="_blank">Google Scholar</a>
   <span>•</span>
   <a href="/assets/cv/CV.pdf" target="_blank">CV</a>
-  <span>•</span>
-  <a href="https://martinivis.github.io/" target="_blank">Website</a>
 </div>
     <p>
       I am a researcher working in the field of computational neuroscience, computer vision and machine learning, with a focus on 3D pose estimation, motion capture, animal behavior analysis, and representation learning.
