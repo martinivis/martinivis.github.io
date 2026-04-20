@@ -107,6 +107,26 @@ permalink: /
   width: 220px;
   border-radius: 10px;   /* softer look */
 }
+
+.contact-links {
+  margin: 10px 0 20px 0;
+  font-size: 0.95em;
+}
+
+.contact-links a {
+  text-decoration: none;
+  color: #333;
+}
+
+.contact-links a:hover {
+  text-decoration: underline;
+}
+
+.contact-links span {
+  margin: 0 8px;
+  color: #999;
+}
+  
 </style>
 
 
@@ -121,6 +141,17 @@ permalink: /
 
   <div class="intro-text">
     <h1>Lucas Martini</h1>
+    <div class="contact-links">
+  <a href="mailto:lumartini@outlook.de">✉ lumartini@outlook.de</a>
+  <span>•</span>
+  <a href="https://www.linkedin.com/in/lucas-martini/" target="_blank">LinkedIn</a>
+  <span>•</span>
+  <a href="https://scholar.google.de/citations?user=_ovDunkAAAAJ&hl=de" target="_blank">Google Scholar</a>
+  <span>•</span>
+  <a href="/assets/cv/CV.pdf" target="_blank">CV</a>
+  <span>•</span>
+  <a href="https://martinivis.github.io/" target="_blank">Website</a>
+</div>
     <p>
       I am a researcher working in the field of computational neuroscience, computer vision and machine learning, with a focus on 3D pose estimation, motion capture, animal behavior analysis, and representation learning.
 After I received my Bachelor's and Master's Degree at the Karlsruhe Institute of Technology (KIT), I started my PhD at the University of Tübingen and the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). 
