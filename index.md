@@ -109,21 +109,18 @@ permalink: /
 }
 
 .contact-links {
-  margin: 10px 0 20px 0;
-  font-size: 0.95em;
-}
-
-.contact-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 18px;
-  margin: 12px 0 22px 0;
+  gap: 8px;
+  margin: 8px 0 16px 0;
   font-size: 0.95em;
+  line-height: 1.4;
 }
 
 .contact-links a {
   text-decoration: none;
   color: #333;
+  white-space: nowrap;
 }
 
 .contact-links a:hover {
@@ -131,7 +128,7 @@ permalink: /
 }
 
 .contact-links span {
-  margin: 0 8px;
+  margin: 0 2px;
   color: #999;
 }
   
