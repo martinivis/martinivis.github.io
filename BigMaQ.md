@@ -26,7 +26,7 @@ header_name: BigMaQ
 </p>
 
 <p align="center">
-<a href="https://openreview.net/forum?id=n7viYE7Xbo">📄 Paper</a> |
+<a href="https://arxiv.org/abs/2602.19874">📄 Paper</a> |
 <a href="https://github.com/martinivis/BigMaQ">💻 Code</a> |
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf30FV5pyhGQac8C5tSM2dW17n7j4xpB_2sNu9UnkeBYdW93Q/viewform?usp=sharing&ouid=116164636450166882978">📊 Dataset request </a> 
 </p>
